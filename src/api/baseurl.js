@@ -1,0 +1,1 @@
+export const BASE_URL ="http://p10deskbook-env.eba-nsvpj3ps.ap-south-1.elasticbeanstalk.com";
